@@ -1,0 +1,14 @@
+{
+  "participants": [
+    {
+      "name": "shubh pradhan",
+      "email": "shubhpavanpradhan@gmail.com",
+      "phone": "06387119491",
+      "college": "christ university",
+      "team": "byte me",
+      "track": "Artificial Intelligence",
+      "id": "AuKfiiQmyuk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
